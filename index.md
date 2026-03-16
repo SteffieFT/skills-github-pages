@@ -1,5 +1,5 @@
 ---
-title: Welcome to my shop!
+Welcome to my shop!
 # Eleste Jewlery
 
 ## Semi-precious stones
